@@ -9,10 +9,9 @@
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
-The objective of the workshop is  ...
-<!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
+The objective of the workshop is to teach students how to do basic coding and how to debug. 
 
-This workshop has participants do ...
+This workshop has participants look for errors in the block coding and debugging the code to get the mBot to work.
 
 ## :bulb: Project Information
 <!-- 
