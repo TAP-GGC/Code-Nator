@@ -83,7 +83,7 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 <i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
-  <img alt="Scratch Logo" src = "media/technology/mbot-mega.PNG" width="200" height="200"/>
+  <img alt="mBot Mega " src = "media/technology/mbot-mega.png" width="200" height="200"/>
 </p>
 
 * [mBot](https://www.makeblock.com/pages/mbot-robot-kit/)  is an educational robot kit designed to help beginners learn programming, robotics, and electronics through hands-on activities.
