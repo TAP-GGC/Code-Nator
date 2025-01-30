@@ -60,7 +60,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 
 ## :page_with_curl: Project Description
-Students will first observe how the code is intended to control the mBot. They will then receive "broken code" and be challenged to analyze and debug the provided snippets to make the mBot replicate the demo's behavior.
+Students will first observe a demo of how the code is intended to make the mBot react. They will then receive "broken code" and learn how to analyze and interpret block-based code to identify and fix errors. Through guided instruction, students will develop problem-solving skills as they work to debug the provided code snippets, ultimately getting the mBot to perform actions similar to the demo.
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
