@@ -60,7 +60,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 
 ## :page_with_curl: Project Description
-A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn.
+Students will first observe how the code is intended to control the mBot. They will then receive "broken code" and be challenged to analyze and debug the provided snippets to make the mBot replicate the demo's behavior.
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
@@ -75,9 +75,8 @@ Example:
 2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
-<i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
 
-If you're interested in more workshops that utilize Scratch, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
+If you're interested in more workshops that utilize mBots, check out [The Beep Bops](https://github.com/TAP-GGC/TheBeepBops)!
 
 ## :computer: Technology
 <i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
