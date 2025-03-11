@@ -4,7 +4,7 @@
 <p align="center">
   <img alt="Template Logo" src="media/logos/TransparentLogo.png" width="" height="350" />
   <h1 align="center">Using mBot to teach basic coding & debugging</h1>
-  <p align="center">A project for ... by team ... </p>
+  <p align="center">By the Code Nators</p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
