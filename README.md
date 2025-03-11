@@ -9,9 +9,7 @@
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
-The objective of the workshop is to teach students how to do basic coding and how to debug. 
-
-This workshop has participants look for errors in the block coding and debugging the code to get the mBot to work.
+The objective of the workshop is to use mBots to teach basic coding and debugging. This workshop has participants dissect incorrect code snippets and debug the code to perform the correct action. The students will be split up into three groups tackling the following topics: RGB Lights, Speed & Distance, and Turns/Lateral Movements. From there, students will regroup and be split into six teams to collaborate on completing a track in the fastest time.
 
 ## :bulb: Project Information
 <!-- 
@@ -31,8 +29,8 @@ You can select from a range of audiences or a single auidience. Examples:
 * <b>Difficulty Level:</b> beginner
 * <b>Target Audience:</b> middle school, college
 * <b>Duration of Workshop:</b> TBD
-* <b>Needed Materials:</b> computers/laptops, mBot, mBlock, cardboard maze, 
-* <b>Learning Outcomes:</b> Teach coding basics by having students debug mBot block code errors.
+* <b>Needed Materials:</b> tablets, mBot Mega, mBlock, cardboard maze, 
+* <b>Learning Outcomes:</b> The desired outcome is to get students familiar with basic coding and debugging.
 * <b>Your Main Technology</b> mBot Mega - a remote-controlled robot car that can move in all directions with its mecanum wheels and app remote control.
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
@@ -60,7 +58,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 
 ## :page_with_curl: Project Description
-Students will first observe a demo of how the code is intended to make the mBot react. They will then receive "broken code" and learn how to analyze and interpret block-based code to identify and fix errors. Through guided instruction, students will develop problem-solving skills as they work to debug the provided code snippets, ultimately getting the mBot to perform actions similar to the demo.
+Students will first observe a demo of how the code is intended to make the mBot react. They will then receive "broken code" and learn how to analyze and interpret block-based code to identify and fix errors. Through guided instruction, students will develop problem-solving skills as they work to debug the provided code snippets, ultimately getting the mBot to perform actions similar to the demo. Once the concepts are taught students will need to create their own code to complete a track.
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
@@ -71,15 +69,16 @@ Students will first observe a demo of how the code is intended to make the mBot 
 
 Example:
 
-1. <b>TAP Expo</b>, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
+1. <b>TAP Expo</b>, February 25, 2025, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
+2. <b>Class Workshops</b>, March 28 - April 4, 2025, Georgia Gwinnett College: to promote the IT field to non-IT students.
+3. <b>GGC Super Saturday Series (S3)</b>, April 26, 2025, Georgia Gwinnett College: hands-on workshops for middle school students to learn more about technology and science.
 
 ## :mag_right: Similar Projects
 
 If you're interested in more workshops that utilize mBots, check out [The Beep Bops](https://github.com/TAP-GGC/TheBeepBops)!
 
 ## :computer: Technology
-<i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
+<i> </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
   <img alt="mBot Mega " src = "media/technology/mbot-mega.png" width="200" height="200"/>
