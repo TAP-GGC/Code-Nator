@@ -42,7 +42,7 @@ You can select from a range of audiences or a single auidience. Examples:
 ## :pencil2: Team: Code-Nator
 
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
-<img alt="Team Photo" src = "media/event photos/STARS EVENT/7.jpeg" width="400" height="300">
+<img alt="Team Photo" src = "media/event photos/STARS EVENT/7.jpeg" width="660" height="420">
 
 > (From left to right: Fredy Quintanilla, Joel Erulu, Danique Holt)
 <!-- replace with full names of your team members -->
