@@ -3,7 +3,7 @@
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
   <img alt="Template Logo" src="media/logos/TransparentLogo.png" width="" height="350" />
-  <h1 align="center">Code-Nator's: Using mBot to teach basic coding & debugging</h1>
+  <h1 align="center">Code-Nator: Using mBot Mega to teach debugging & basic coding</h1>
   <p align="center">By the Code Nators</p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
