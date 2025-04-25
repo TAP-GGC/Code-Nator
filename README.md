@@ -65,9 +65,6 @@ Students will first observe a demo of how the code is intended to make the mBot 
 STARS, 17, April, 2025 and CREATE Symposium, 24, April, 2025  
 
 ## :open_hands: Outreach
-<i>List the outreach events your team has participated in. </i>
-
-Example:
 
 1. <b>TAP Expo</b>, February 25, 2025, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
 2. <b>Class Workshops</b>, March 28 - April 4, 2025, Georgia Gwinnett College: to promote the IT field to non-IT students.
