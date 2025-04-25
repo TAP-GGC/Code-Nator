@@ -62,7 +62,7 @@ Students will first observe a demo of how the code is intended to make the mBot 
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-1. Team Member, Team Member, Team Member, John Doe, Jane Doe. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.  
+STARS, 17, April, 2025 and CREATE Symposium, 24, April, 2025  
 
 ## :open_hands: Outreach
 <i>List the outreach events your team has participated in. </i>
