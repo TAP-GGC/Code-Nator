@@ -83,10 +83,10 @@ If you're interested in more workshops that utilize mBots, check out [The Beep B
 
 * [mBot](https://www.makeblock.com/pages/mbot-robot-kit/)  is an educational robot kit designed to help beginners learn programming, robotics, and electronics through hands-on activities.
 * It works by allowing users to program its behavior and movements using block-based coding in mBlock software or advanced programming languages like Arduino C, enabling it to perform tasks such as obstacle avoidance, line-following, and remote control.
-* As a team, we chose mBot as our technology for our project as we believe it is very interactive in teaching people how to code and letting them see how their code controls the mBot's movements.
+* This project was developed using [mBlock](https://www.mblock.cc/), a block-based programming platform designed to make coding accessible for beginners, especially in STEM and robotics education.
 
 <p align="center">
-<img src = "media/technology/block-based language.png" width ="400" height="200">
+<img src = "media/technology/makeblock logo.png" width ="400" height="200">
 </p>
 
 ## Project Setup/Installation 
