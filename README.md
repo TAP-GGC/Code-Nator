@@ -86,7 +86,7 @@ If you're interested in more workshops that utilize mBots, check out [The Beep B
 * This project was developed using [mBlock](https://www.mblock.cc/), a block-based programming platform designed to make coding accessible for beginners, especially in STEM and robotics education.
 
 <p align="center">
-<img src = "media/technology/makeblock logo.png" width ="400" height="200">
+<img src = "media/technology/makeblock logo.png" width ="200" height="200">
 </p>
 
 ## Project Setup/Installation 
