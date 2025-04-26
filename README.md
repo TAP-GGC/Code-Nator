@@ -72,7 +72,7 @@ STARS, 17, April, 2025 and CREATE Symposium, 24, April, 2025
 
 ## :mag_right: Similar Projects
 
-If you're interested in more workshops that utilize mBots, check out [The Beep Bops](https://github.com/TAP-GGC/TheBeepBops)!
+If you're interested in more workshops that utilize mBots, check out [AutoBots](https://github.com/TAP-GGC/AutoBots)!
 
 ## :computer: Technology
 <i> </i>
