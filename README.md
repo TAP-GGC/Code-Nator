@@ -72,7 +72,7 @@ STARS, 17, April, 2025 and CREATE Symposium, 24, April, 2025
 
 ## :mag_right: Similar Projects
 
-If you're interested in more workshops that utilize robots, check out [AutoBots](https://github.com/TAP-GGC/AutoBots) (mBot Mega), [Ballislife](https://github.com/TAP-GGC/Ballislife) (Sphero), and [DancingSphero](https://github.com/TAP-GGC/DancingSphero) (Sphero)!
+If you're interested in more workshops that utilize robots, check out [AutoBots](https://github.com/TAP-GGC/AutoBots) (mBot Mega), [Ballislife](https://github.com/TAP-GGC/ball-is-life) (Sphero), and [DancingSphero](https://github.com/TAP-GGC/DancingSphero) (Sphero)!
 
 ## :computer: Technology
 <i> </i>
