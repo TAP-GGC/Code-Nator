@@ -89,38 +89,5 @@ If you're interested in more workshops that utilize mBots, check out [The Beep B
 <img src = "media/technology/makeblock logo.png" width ="200" height="200">
 </p>
 
-## Project Setup/Installation 
-<i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
-
-Your repo doesn't have to have every section used below. This is just an example so you can get an idea of what your own repo should look like</i>
-
-### Opening a blank Scratch page 
-[Click here to view instructions](/documents/tutorial%20materials/Opening%20a%20blank%20Scratch%20page.md)
-
-[Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
-
-<!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
-## CS First Installation Walkthrough
-[Click here to view instructions](/documents/tutorial%20materials/CS%20FIRST/CS%20First%20Walkthrough.md)
-
-### Getting to the game 
-[Click here to view instructions](/documents/tutorial%20materials/Getting%20to%20the%20Game.md)
-
-## Usage
-<i> Describe HOW to use your game. </i> 
-Example: 
-1. Press the Left arrow key to move to the left.
-2. Press the Right arrow key to move to the right.
-3. Press the Up arrow key to move up.
-4. Press the Down arrow key to move down.
-5. You may also replace the arrow keys with a Makey Makey. 
-
-## Short Demo Instructions 
-[Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
-
-## Workshop Instructions 
-[Click here to view workshop walkthrough pdf file](/documents/tutorial%20materials/Scratch%20Workshop%20Walkthrough.pdf)
-
-[Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
 
 
