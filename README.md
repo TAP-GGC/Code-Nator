@@ -2,7 +2,7 @@
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="Template Logo" src="media/logos/TransparentLogo.png" width="" height="350" />
+  <img alt="Template Logo" src="media/logos/TransparentLogo.png" height="350" />
   <h1 align="center">Code-Nator: Using mBot Mega to teach debugging & basic coding</h1>
   <p align="center">By the Code Nators</p>
 </p>
@@ -42,7 +42,7 @@ You can select from a range of audiences or a single auidience. Examples:
 ## :pencil2: Team: Code-Nator
 
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
-<img alt="Team Photo" src = "media/event photos/STARS EVENT/7.jpeg" width="660" height="420">
+<img alt="Team Photo" src = "media/event photos/STARS EVENT/7.jpeg" width="660">
 
 > (From left to right: Fredy Quintanilla, Joel Erulu, Danique Holt)
 <!-- replace with full names of your team members -->
@@ -78,7 +78,7 @@ If you're interested in more workshops that utilize robots, check out [AutoBots]
 <i> </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
-  <img alt="mBot Mega " src = "media/technology/mbot-mega.png" width="200" height="200"/>
+  <img alt="mBot Mega " src = "media/technology/mbot-mega.png" width="200"/>
 </p>
 
 * [mBot](https://www.makeblock.com/pages/mbot-robot-kit/)  is an educational robot kit designed to help beginners learn programming, robotics, and electronics through hands-on activities.
