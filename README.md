@@ -28,7 +28,7 @@ You can select from a range of audiences or a single auidience. Examples:
 -->
 * <b>Difficulty Level:</b> beginner
 * <b>Target Audience:</b> middle school, college
-* <b>Duration of Workshop:</b> TBD
+* <b>Duration of Workshop:</b> 60 minutes
 * <b>Needed Materials:</b> tablets, mBot Mega, mBlock, cardboard maze, 
 * <b>Learning Outcomes:</b> The desired outcome is to get students familiar with basic coding and debugging.
 * <b>Your Main Technology</b> mBot Mega - a remote-controlled robot car that can move in all directions with its mecanum wheels and app remote control.
