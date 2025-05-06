@@ -91,6 +91,6 @@ If you're interested in more workshops that utilize robots, check out [AutoBots]
 </p>
 
 ## Project Setup/Installation
-([Track Setup](https://github.com/TAP-GGC/Code-Nator/blob/main/documents/tutorial%20materials/Track%20Setup%20Steps.pdf))
-([TAP Workshop Instructions] (https://github.com/TAP-GGC/Code-Nator/blob/main/documents/tutorial%20materials/TAPWorkshopInstructions.pdf))
+*[Track Setup](https://github.com/TAP-GGC/Code-Nator/blob/main/documents/tutorial%20materials/Track%20Setup%20Steps.pdf)
+*[TAP Workshop Instructions](https://github.com/TAP-GGC/Code-Nator/blob/main/documents/tutorial%20materials/TAPWorkshopInstructions.pdf)
 
