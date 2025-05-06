@@ -62,7 +62,8 @@ Students will first observe a demo of how the code is intended to make the mBot 
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-STARS, 17, April, 2025 and CREATE Symposium, 24, April, 2025  
+1. Tapia Abstract (2025, April 11) - Quintanilla, F., Holt, D., Erulu, J., Gunay, C., & Robertson, C.. Using mBot Mega to teach basic coding & debugging 
+2. STARS (2025, April 17) and CREATE Symposium (2025, April 24) - Quintanilla, F., Holt, D., Erulu, J., Gunay, C., & Robertson, C.. Learning Debugging through the mBot Mega
 
 ## :open_hands: Outreach
 
@@ -89,5 +90,7 @@ If you're interested in more workshops that utilize robots, check out [AutoBots]
 <img src = "media/technology/makeblock logo.png" width ="200" height="200">
 </p>
 
-
+## Project Setup/Installation
+([Track Setup](https://github.com/TAP-GGC/Code-Nator/blob/main/documents/tutorial%20materials/Track%20Setup%20Steps.pdf))
+([TAP Workshop Instructions] (https://github.com/TAP-GGC/Code-Nator/blob/main/documents/tutorial%20materials/TAPWorkshopInstructions.pdf))
 
